@@ -1,5 +1,5 @@
 -Hi, I’m @Anaken-Hilken, for short pick either Anaken or Hilken. I’m interested in being a developer. I’m currently learning JavaScript, Python and the like. 
-I’m looking forward to work on either videogames, cyber security, programs/apps or websites, on the long run of course.
+I’m looking forward to work on either videogames, programs/apps or websites, on the long run of course.
 
 
 <!---
